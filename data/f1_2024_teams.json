@@ -1,0 +1,81 @@
+[  {
+    "team": "Red Bull Racing",
+    "engine": "Honda RBPT",
+    "drivers": [
+      {"name": "Max Verstappen", "number": 1, "nationality": "Netherlands"},
+      {"name": "Sergio Perez", "number": 11, "nationality": "Mexico"}
+    ]
+  },
+  {
+    "team": "Mercedes",
+    "engine": "Mercedes",
+    "drivers": [
+      {"name": "Lewis Hamilton", "number": 44, "nationality": "United Kingdom"},
+      {"name": "George Russell", "number": 63, "nationality": "United Kingdom"}
+    ]
+  },
+  {
+    "team": "Ferrari",
+    "engine": "Ferrari",
+    "drivers": [
+      {"name": "Charles Leclerc", "number": 16, "nationality": "Monaco"},
+      {"name": "Carlos Sainz Jr.", "number": 55, "nationality": "Spain"}
+    ]
+  },
+  {
+    "team": "McLaren",
+    "engine": "Mercedes",
+    "drivers": [
+      {"name": "Lando Norris", "number": 4, "nationality": "United Kingdom"},
+      {"name": "Oscar Piastri", "number": 81, "nationality": "Australia"}
+    ]
+  },
+  {
+    "team": "Aston Martin",
+    "engine": "Mercedes",
+    "drivers": [
+      {"name": "Fernando Alonso", "number": 14, "nationality": "Spain"},
+      {"name": "Lance Stroll", "number": 18, "nationality": "Canada"}
+    ]
+  },
+  {
+    "team": "Alpine",
+    "engine": "Renault",
+    "drivers": [
+      {"name": "Esteban Ocon", "number": 31, "nationality": "France"},
+      {"name": "Pierre Gasly", "number": 10, "nationality": "France"}
+    ]
+  },
+  {
+    "team": "Williams",
+    "engine": "Mercedes",
+    "drivers": [
+      {"name": "Alexander Albon", "number": 23, "nationality": "Thailand"},
+      {"name": "Logan Sargeant", "number": 2, "nationality": "United States"}
+    ]
+  },
+  {
+    "team": "RB (Visa Cash App RB)",
+    "engine": "Honda RBPT",
+    "drivers": [
+      {"name": "Daniel Ricciardo", "number": 3, "nationality": "Australia"},
+      {"name": "Yuki Tsunoda", "number": 22, "nationality": "Japan"}
+    ]
+  },
+  {
+    "team": "Kick Sauber",
+    "engine": "Ferrari",
+    "drivers": [
+      {"name": "Valtteri Bottas", "number": 77, "nationality": "Finland"},
+      {"name": "Zhou Guanyu", "number": 24, "nationality": "China"}
+    ]
+  },
+  {
+    "team": "Haas",
+    "engine": "Ferrari",
+    "drivers": [
+      {"name": "Kevin Magnussen", "number": 20, "nationality": "Denmark"},
+      {"name": "Nico Hülkenberg", "number": 27, "nationality": "Germany"}
+    ]
+  }
+]
